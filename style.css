@@ -1,0 +1,27 @@
+.product {
+    margin: 10px 0;
+}
+
+.product h3 {
+    font-size: 1.5em;
+}
+
+.product p {
+    font-size: 1em;
+}
+
+.product button {
+    background-color: #007bff;
+    color: white;
+}
+footer .left {
+    text-align: left;
+}
+
+footer .center {
+    text-align: center;
+}
+
+footer .right {
+    text-align: right;
+}
